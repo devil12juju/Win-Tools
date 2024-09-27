@@ -25,7 +25,7 @@ Win-Tools est un ensemble d'outils qui vous permet de protéger et d'améliorer 
 
 **Installation**
 
- Pour utiliser Win-Tools, téléchargez la dernière version sur https://github.com/devil12juju/Win-Tools/releases/tag/V1, puis exécutez-le en tant qu'administrateur.
+ Pour utiliser Win-Tools, téléchargez la dernière version depuis https://github.com/devil12juju/Win-Tools/releases/tag/V1, puis exécutez-le en tant qu'administrateur.
 
 **Contributeurs**
 
